@@ -40,58 +40,6 @@
     }
   },
   {
-    "id": "recQepS3t6IzlBgQ4",
-    "createdTime": "2026-01-14T14:11:07.000Z",
-    "fields": {
-      "Name": "車會會址",
-      "地址": "九龍觀塘萬年工業大廈6樓C13室",
-      "電話": "62926233",
-      "高德地圖": "https://surl.amap.com/jZcY4o21l24j",
-      "Google Map": "https://maps.app.goo.gl/dbEqGNgu72822zbB8",
-      "WAZE": "https://www.waze.com/en/live-map/directions/hk/%E4%B9%9D%E9%BE%8D/%E8%90%AC%E5%B9%B4%E5%B7%A5%E6%A5%AD%E5%A4%A7%E5%BB%88?place=ChIJUeTGeEUBBDQRj3h-ww8a2EU"
-    }
-  },
-  {
-    "id": "recWQXApvuDSSXLvc",
-    "createdTime": "2026-01-14T14:50:41.000Z",
-    "fields": {
-      "Remark": [
-        {
-          "id": "attVkXXNUItOTyh8W",
-          "width": 945,
-          "height": 763,
-          "url": "https://v5.airtableusercontent.com/v3/u/55/55/1784224800000/6oeR6sKDjeub1CL_-_XftQ/jdTFRPhdopU2tJoISdz1S5AaedULWViL85MuwPhRRcrh5RVqDhCpZtPRjq35hgpVqu7ojLv2_HQaENBwfHKlYHYxFAi-o48a04e_PMJ9HJ_Uka1GuKE5nDIfDNaclVNS3wIUdH2EkoPxlxQAREVMqw/IdY8U9d6M5yGHHcXBQaIF4GjOxDb9ytoXzdsNCF3-s4",
-          "filename": "image.png",
-          "size": 1091771,
-          "type": "image/png",
-          "thumbnails": {
-            "small": {
-              "url": "https://v5.airtableusercontent.com/v3/u/55/55/1784224800000/B2-LEGk15bPB_wQUMS3p-A/uue27OEJpgGSJjUTFp1uf_Nx5JHE57fKsaX_fNDrHjgCN68e1ug8GZic3aqqDpTG3wW-lMfV42lbPk4jMmVfJq5uWGrE0-IbhGDmvUQZdUl6WlpQWW1tSbKzvAmTO6JMSxadDC9iQinW63w-alYTTQ/_ndFPt5y5CdUKNYBjtwVBNdsPDDKByKhLu51PDEDUp4",
-              "width": 45,
-              "height": 36
-            },
-            "large": {
-              "url": "https://v5.airtableusercontent.com/v3/u/55/55/1784224800000/wNACAtK_9Dh4P9IA8Vrw6g/tOkQPFkdbGe2TxPUOZKIbjI_v-c0eIMG51AKAo2vXzIt1RlUPwjlOwDpbO2z0-OjX1mEco-C6hr2VGm8Jk04R5eWQ-oIIdQ2woAz0UEjidSJBSgF2t_vU_6GHVOXzl3XJ1M3PeIMtFM-In0BB_2YKg/gksezG7qO7HO3zZk8GnafT4QIqlKuohxamJWFd-ZkKM",
-              "width": 634,
-              "height": 512
-            },
-            "full": {
-              "url": "https://v5.airtableusercontent.com/v3/u/55/55/1784224800000/-r5jsXxhZucMPnDanwslyw/E4PiaRJXkKrcYkvLSb4xTRdlCJK-5SlogdVDdQymMrGYs3DIMlW8-SRZZigJPPwau_U6HEecjei2PwhY7q7A5P61BHwrnAuT4_fQ-K_C5Y5J3fteK_C8mi5m4KIxGL9b8sGQCgTBNlRA8r8iNyAtdQ/L9NqH37KCJFGL-gJe3LLUymUcv-nXSl48NF6sfuwYjs",
-              "width": 945,
-              "height": 763
-            }
-          }
-        }
-      ],
-      "Name": "觀塘車房榮哥 (PIT SHOP)",
-      "地址": "九龍觀塘興業街16-18號美興工業大廈地下A2",
-      "電話": "94927927",
-      "高德地圖": "https://surl.amap.com/k20YyXM8eTw",
-      "Google Map": "https://maps.app.goo.gl/pBJLhxutwz9w34DX9",
-      "WAZE": "https://www.waze.com/en/live-map/directions/hk/%E4%B9%9D%E9%BE%8D/mai-hing-industrial-building?place=ChIJ86edHEUBBDQRqvwvhSqRzo0"
-    }
-  },
-  {
     "id": "recYb3ScfGZg20SC5",
     "createdTime": "2026-01-14T14:11:07.000Z",
     "fields": {
@@ -129,46 +77,6 @@
       "高德地圖": "https://surl.amap.com/k0RYe78L3ZL",
       "Google Map": "https://maps.app.goo.gl/b87gjDnEgBZa8uwN9",
       "WAZE": "https://ul.waze.com/ul?ll=22.48450527%2C114.05773044&navigate=yes&zoom=17&utm_campaign=default&utm_source=waze_website&utm_medium=lm_share_location"
-    }
-  },
-  {
-    "id": "recemxWaLhbJ2byj6",
-    "createdTime": "2026-06-12T07:49:10.000Z",
-    "fields": {
-      "Remark": [
-        {
-          "id": "attevx5torAa0hTAZ",
-          "width": 1152,
-          "height": 2048,
-          "url": "https://v5.airtableusercontent.com/v3/u/55/55/1784224800000/HNavQ3sRZ0xHroWUlIESnw/j99S8IW-ngEBhmo1F6c5-Fut3vzkOWk4659Qv5hWKJUNBNz97asCtEqJzHWiCa6NK6vYMxIYy9U4N6qtaYT7o2u_Zgo4kaj6zvY1GnocZmSNFqkcfq9wRSS7DJwLOrYx63LqBy9r2PuM-cDrJjyeRRJlWt1BAs-jQeyLFFNdkRo-9Sv2DmOEg9lu4RYNYuPr/FzIaRblFSFPVDZP5UYqrMxQ0vsr-Lvk6HL4dTX__NgU",
-          "filename": "WhatsApp Image 2026-06-12 at 4.05.48 PM.jpeg",
-          "size": 391828,
-          "type": "image/jpeg",
-          "thumbnails": {
-            "small": {
-              "url": "https://v5.airtableusercontent.com/v3/u/55/55/1784224800000/FNXil73efre21CgxT_joJQ/rmtBizkTkMMhHB8iQfZSGjqjsJz8JIfGFMTsWQzIJen7QckBGo7nsfQNUiVUnmcs9-FJOSXGBLB8wTPiRXKDF10jbcc2olsFgOeCScyMkL10KAOKL48TTJ1stAII84pwaDh7Fl892zEyVFbfQ3syhA/vBjj9iKZK0WZ-xF4vFkOzo1zOfEKs-cYMKLk0EOFyYc",
-              "width": 20,
-              "height": 36
-            },
-            "large": {
-              "url": "https://v5.airtableusercontent.com/v3/u/55/55/1784224800000/8yPVA7ACXWzbMN6S4HMxSA/TS62nwuNE62VPjRA1D2fjx1H9GLosallmZ_Hoxdmz2QrtCCL4v0J0EdfZv2g-DBP3iyeyzkCl3lZROoMYwPeA__rwPqewW3-X2gs7zjSbWRbmAj6wrpdbE367Gnw74ArjdfKrOnXnm87C58L2JzvTw/UuU71eToqAnZFleqwH_KcSb7hFgLthExT5Pmn9dc-Dg",
-              "width": 512,
-              "height": 910
-            },
-            "full": {
-              "url": "https://v5.airtableusercontent.com/v3/u/55/55/1784224800000/ST0JkdjSq8lKu-tdgFz-Fg/agcdnH0aEeR_Qx8z9qsZZyPVEUVtEfWhu-sQzxNij6708uTItGO_9GA2UlzevMeR49OsJI3DWv6e-YDKto-84JeF3Vk8hzwrloAyrL_SPpL-J3Xu6CBbEEFfSeA67i4mAXjNcuOxrisL4WHqZg43Dg/rN9WBWbbbwKFUJ6X4kMXwWoNzH0i5yEgHJ38pIrYOuo",
-              "width": 1152,
-              "height": 2048
-            }
-          }
-        }
-      ],
-      "Name": "鋰電池自取點 (菜鳥自提點) 星期一至六 1500-2000",
-      "地址": "新界粉嶺坪輋坪原路18號",
-      "電話": "65854844",
-      "高德地圖": "https://surl.amap.com/29PAppyh1ve7m",
-      "Google Map": "https://maps.app.goo.gl/eQm4h5BecavX29aS7",
-      "WAZE": "https://ul.waze.com/ul?ll=22.53564824%2C114.16247606&navigate=yes&zoom=17&utm_campaign=default&utm_source=waze_website&utm_medium=lm_share_location"
     }
   },
   {
