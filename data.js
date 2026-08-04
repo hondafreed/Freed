@@ -746,32 +746,6 @@ window.SITE_DATA = {
       "videos": []
     },
     {
-      "id": "recQepS3t6IzlBgQ4",
-      "name": "車會會址",
-      "phone": "62926233",
-      "address": "九龍觀塘萬年工業大廈6樓C13室",
-      "gmap": "https://maps.app.goo.gl/dbEqGNgu72822zbB8",
-      "amap": "https://surl.amap.com/jZcY4o21l24j",
-      "waze": "https://www.waze.com/en/live-map/directions/hk/%E4%B9%9D%E9%BE%8D/%E8%90%AC%E5%B9%B4%E5%B7%A5%E6%A5%AD%E5%A4%A7%E5%BB%88?place=ChIJUeTGeEUBBDQRj3h-ww8a2EU",
-      "images": [
-        "assets/locations/39761872-4700-4c3f-aeaf-d4fed29685b4.JPG"
-      ],
-      "videos": []
-    },
-    {
-      "id": "recWQXApvuDSSXLvc",
-      "name": "觀塘車房榮哥 (PIT SHOP)",
-      "phone": "94927927",
-      "address": "九龍觀塘興業街16-18號美興工業大廈地下A2",
-      "gmap": "https://maps.app.goo.gl/pBJLhxutwz9w34DX9",
-      "amap": "https://surl.amap.com/k20YyXM8eTw",
-      "waze": "https://www.waze.com/en/live-map/directions/hk/%E4%B9%9D%E9%BE%8D/mai-hing-industrial-building?place=ChIJ86edHEUBBDQRqvwvhSqRzo0",
-      "images": [
-        "assets/locations/recWQXApvuDSSXLvc_0.png"
-      ],
-      "videos": []
-    },
-    {
       "id": "recYb3ScfGZg20SC5",
       "name": "噴油平哥",
       "phone": "91016539",
@@ -781,19 +755,6 @@ window.SITE_DATA = {
       "waze": "https://ul.waze.com/ul?ll=22.48450527%2C114.05773044&navigate=yes&zoom=17&utm_campaign=default&utm_source=waze_website&utm_medium=lm_share_location",
       "images": [
         "assets/locations/recYb3ScfGZg20SC5_0.png"
-      ],
-      "videos": []
-    },
-    {
-      "id": "recemxWaLhbJ2byj6",
-      "name": "鋰電池自取點 (菜鳥自提點) 星期一至六 1500-2000",
-      "phone": "65854844",
-      "address": "新界粉嶺坪輋坪原路18號",
-      "gmap": "https://maps.app.goo.gl/eQm4h5BecavX29aS7",
-      "amap": "https://surl.amap.com/29PAppyh1ve7m",
-      "waze": "https://ul.waze.com/ul?ll=22.53564824%2C114.16247606&navigate=yes&zoom=17&utm_campaign=default&utm_source=waze_website&utm_medium=lm_share_location",
-      "images": [
-        "assets/locations/recemxWaLhbJ2byj6_0.jpg"
       ],
       "videos": []
     },
